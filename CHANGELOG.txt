@@ -1,0 +1,28 @@
+
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	//       Isismorderfree                                                                                     //
+	//       Envoi de sms via free mobile au vendeur quand une commande est validée                             //
+	//       Module original de Isigny.org largement amélioré grâce aux contributeurs du forum Prestashop       //
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Discussion et archives : https://www.prestashop.com/forums/topic/362750-module-dalerte-sms-de-nouvelles-commandes-pour-freemobile/
+
+
+CHANGELOG:
+
+v1.1
+Vinzter - 28/03/2015
+Plusieurs modifications majeures du module
+- Modification du format du SMS
+- Ajout de la possibilité de sélectionner les infos affichées dans le SMS
+- Ajout de la possibilité d'envoyer les SMS sur un deuxième téléphone
+- Ajout de la possibilité d'activer ou non les envois sur les téléphones configurés
+- Amélioration de la page de configuration dans le back office
+- Traduction du module en anglais
+- Suppression des dossiers et fichiers inutiles
+
+v1.0
+Isigny - 19/09/2014
+Module original réalisé par isigny.org - contact@isigny.org
